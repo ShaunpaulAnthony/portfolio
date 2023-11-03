@@ -3,25 +3,46 @@ export const projects = [
       title: "5 Star Cinema",
       subtitle: "MySQL, Express, React, NodeJS",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "A cinema ticketing system supporting multiple venues. ",
       image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://fivestarcinema-fe2ab094cceb.herokuapp.com",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Under Construction",
+      subtitle: "To be added",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "./project-2.gif",
-      link: "https://reedbarger.com",
+      link: "",
     },
   ];
 
   export const skills = [
     "JavaScript",
     "React",
-    "Node.js",
-    // ... other skills
+    "NodeJS",
+    "Express",
+    "Java", 
+    "Spring Boot", 
+    "REST APIs",
+    "AWS (EC2, RDS, S3, Docker)",
+    "MySQL",
+    "MSSQL",
+    "Azure",
+    "jQuery",
+    "JUnit",
+    "AJAX",
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "PHP",
+    "C#",
+    "ASP.NET",
+    "WPF",
+    "Git",
+    "Agile",
+    "Trello/Kanban"
+
   ];
 
   export const testimonials = [
@@ -31,5 +52,4 @@ export const projects = [
       quote: "The project was delivered on time and exceeded our expectations.",
       image: "./path_to_image.jpg"
     },
-    // ... other testimonials
   ];
