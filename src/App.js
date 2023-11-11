@@ -12,11 +12,11 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-        <main className="text-gray-400 bg-gray-900 body-font">
+        <main className="text-gray-800 bg-emerald-100 body-font">
             <Navbar />
             <About />
-            <Skills />
             <Projects />
+            <Skills />
         </main>
     </BrowserRouter>
   );
